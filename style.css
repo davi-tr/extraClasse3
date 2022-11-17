@@ -1,0 +1,11 @@
+.texto{
+    text-align: center;
+}
+
+#btn{
+    font-size: larger;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
